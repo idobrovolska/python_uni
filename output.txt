@@ -1,0 +1,2 @@
+q(x) evaluated at point x: -2.701348773829623e+29
+h(x) evaluated at point x: 1.712188742962157e+45
